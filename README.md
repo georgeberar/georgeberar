@@ -22,6 +22,6 @@ Technology evolves, and so do I. I am committed to staying up-to-date with the l
 
 I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about pushing the boundaries of what technology can achieve. Let's collaborate, share ideas, and build something amazing together!
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/george-berar-b62a45105/).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/george-berar-b62a45105/) or find me on [Medium](https://medium.com/@georgeberar).
 
 Happy coding! 🚀
