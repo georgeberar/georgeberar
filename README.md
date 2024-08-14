@@ -1,6 +1,6 @@
-## 👋 Hi stranger, I'm George!
+## Hi, I'm George!
 
-I'm a passionate Software Engineer with a keen interest in turning ideas into reality through elegant and efficient solutions.
+I'm a passionate Software Engineer with a keen interest in turning ideas into reality.
 
 ### 💻 Tech Stack
 
@@ -12,16 +12,8 @@ I'm a passionate Software Engineer with a keen interest in turning ideas into re
 
 ### 🚀 What I Do
 
-I specialize in crafting end-to-end solutions, from conceptualization to deployment. Whether it's architecting a clean and scalable backend, implementing DDD principles, or optimizing performance, I'm dedicated to delivering high-quality software.
-
-### 📚 Lifelong Learner
-
-Technology evolves, and so do I. I am committed to staying up-to-date with the latest trends, tools, and methodologies in the ever-changing landscape of software development.
+I specialize in crafting end-to-end solutions, from conceptualization to deployment.
 
 ### 🌍 Let's Connect
 
-I'm always open to connecting with fellow developers, tech enthusiasts, and anyone passionate about pushing the boundaries of what technology can achieve.
-
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/george-berar-b62a45105/) or find me on [Medium](https://medium.com/@georgeberar).
-
-Happy coding! 🚀
